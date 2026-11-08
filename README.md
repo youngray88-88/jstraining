@@ -32,3 +32,4 @@
 ## License
 
 GPL v3
+<!-- dsh-superagent smoke test -->
